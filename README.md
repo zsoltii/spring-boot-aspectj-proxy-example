@@ -30,6 +30,8 @@ Options:
 - upload com.sun:tools to your repository (etc: nexus, artifactory)
 - use it locally
 
+You can find the JDK8 1.8.0_221 tools jar in the project `lib` folder.
+
 #### upload com.sun:tools to your repository ####
 
 If you choose this option, you have to upload you repository server the `[JDK8_HOME]/lib/tools.jar` with following data:
