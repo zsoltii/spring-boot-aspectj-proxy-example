@@ -64,3 +64,7 @@ After run application you need to see in the log (the system out) the following 
 `Allowed execution for execution(String hu.zsoltii.springboot.aspectj.example.data.Dao1.appleStatic())`
 
 If you don't see these lines, aspectJ proxy isn't working
+
+# Thank you #
+
+for the original code to Zsolt Kepler
